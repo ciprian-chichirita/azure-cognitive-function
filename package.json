@@ -1,0 +1,13 @@
+{
+  "name": "azure-cognitive-function",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/ai-text-analytics": "^1.0.0-preview.2"
+  },
+  "devDependencies": {}
+}
